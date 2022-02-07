@@ -62,3 +62,22 @@ scroll-margin-top: 100px;
 .nav-dot:hover span {
     opacity: 1;
 }
+
+/* 수정사항 */
+h1 {
+    font-variant: small-caps;
+}
+
+.container section div{
+    font-variant: small-caps;
+    font-size: 20px;
+    text-align: justify;
+    float: left;
+}
+
+.container section div small{
+   float: right;
+   margin-top: 6px;
+}
+
+
