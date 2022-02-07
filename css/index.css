@@ -67,17 +67,18 @@ scroll-margin-top: 100px;
 h1 {
     font-variant: small-caps;
 }
-
-.container section div{
+/* 
+.container section .grid{
     font-variant: small-caps;
     font-size: 20px;
     text-align: justify;
     float: left;
-}
+    border: 1px solid gold;
+} */
 
 .container section div small{
    float: right;
-   margin-top: 6px;
+   margin-top: 4px;
 }
 
 
